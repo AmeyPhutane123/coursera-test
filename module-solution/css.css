@@ -34,7 +34,6 @@ h{
   width: 80px;
   text-align: center;
   float: right;
-  font-size:75%;
   background-color: blue;
   border: 1px solid black;
 
@@ -45,7 +44,6 @@ div>div>div{
   margin: 10px;
   height: auto;
   border: 1px solid black;
-  font-size:25%;
 
 }
 
